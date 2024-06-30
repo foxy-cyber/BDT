@@ -1,0 +1,25 @@
+2024.07.01 01:24:34 INFO  Started: Metals version 1.3.2 in folders 'E:\git\BDT' for client Visual Studio Code 1.78.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@35488760]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1c7463d7]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@35488760]
+2024.07.01 01:24:35 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.01 01:24:37 INFO  Running List(C:\Users\tilak\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, E:\git\BDT)
+2024.07.01 01:24:38 INFO  Attempting to connect to the build server...
+2024.07.01 01:24:38 INFO  Running BSP server List(C:\Users\tilak\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, E:\git\BDT\.scala-build\ide-options-v2.json, --json-launcher-options, E:\git\BDT\.scala-build\ide-launcher-options.json, --envs-file, E:\git\BDT\.scala-build\ide-envs.json, E:\git\BDT)
+2024.07.01 01:24:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\git\BDT\.metals\bsp.trace.json or C:\Users\tilak\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.01 01:24:45 INFO  time: Connected to build server in 6.71s
+2024.07.01 01:24:45 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.01 01:24:45 INFO  time: Imported build in 0.15s
+2024.07.01 01:24:46 INFO  compiling bdt_3a81922674 (18 scala sources)
+2024.07.01 01:24:51 WARN  Invalid text document uri received from build server: file:///E:/git/BDT/a/22nd.scala
+2024.07.01 01:24:51 WARN  Invalid text document uri received from build server: file:///E:/git/BDT/a/19th.scala
+2024.07.01 01:24:51 WARN  Invalid text document uri received from build server: file:///E:/git/BDT/a/23rd.scala
+2024.07.01 01:24:51 WARN  Invalid text document uri received from build server: file:///E:/git/BDT/a/21th.scala
+2024.07.01 01:24:51 INFO  time: compiled BDT_3a81922674 in 5.02s
+2024.07.01 01:24:51 INFO  compiling bdt_3a81922674 (18 scala sources)
+2024.07.01 01:24:54 INFO  time: compiled BDT_3a81922674 in 2.65s
+2024.07.01 01:24:55 INFO  time: indexed workspace in 9.81s
+Jul 01, 2024 1:25:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
